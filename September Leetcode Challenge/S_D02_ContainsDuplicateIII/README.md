@@ -30,5 +30,6 @@ Time complexity O(n logk) - This will give an indication that sorting is involve
 Show Hint #1:
 ```
 Use already existing state to evaluate next state - Like, a set of k sorted numbers are only needed to be tracked.
-When we are processing the next number in array, then we can utilize the existing sorted state and it is not necessary to sort next overlapping set of k numbers again.
+When we are processing the next number in array, then we can utilize the existing sorted state and it is not necessary to sort next
+overlapping set of k numbers again.
 ```
