@@ -1,7 +1,7 @@
 class Solution:
-'''
-September Leetcode Challenge Day 1
-'''
+    '''
+    September Leetcode Challenge Day 1
+    '''
     def largestTimeFromDigits(self, mylist1: List[int]) -> str:
         if len(mylist1) == 0:
             return ""
