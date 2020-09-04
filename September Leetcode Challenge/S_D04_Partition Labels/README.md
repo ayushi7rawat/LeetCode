@@ -20,3 +20,9 @@ Note:
 S will have length in range [1, 500].
 S will consist of lowercase English letters ('a' to 'z') only.
 ```
+
+Hide Hint #1
+==========================
+```
+Try to greedily choose the smallest partition that includes the first letter. If you have something like "abaccbdeffed", then you might need to add b. You can use an map like "last['b'] = 5" to help you expand the width of your partition.
+```
