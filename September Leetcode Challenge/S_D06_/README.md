@@ -1,7 +1,7 @@
 Name:
 ==========================
 
-![alt text](https://github.com/ayushi7rawat/LeetCode/blob/master/September%20Leetcode%20Challenge/S_D04_Partition%20Labels/cover.jpg)
+![alt text]()
 
 Explanation Walkthrough:
 ==========================
