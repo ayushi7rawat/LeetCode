@@ -1,5 +1,14 @@
 Contains Duplicate III
 ==========================
+
+![alt text](https://github.com/ayushi7rawat/LeetCode/blob/master/September%20Leetcode%20Challenge/S_D01_LargestTimeforGivenDigits/cover.jpg)
+
+Explanation Walkthrough:
+==========================
+*You can find a complete step by step explanation walkthrough at my september Leetcode challenge* [Youtube Playlist](https://www.youtube.com/playlist?list=PLjaO05BrsbIP4_rYhYjB95q-IpxoIXmlm)
+
+Problem Statement:
+==========================
 Given an array of integers, find out whether there are two distinct indices i and j in the array such that the absolute difference between nums[i] and nums[j] is at most t and the absolute difference between i and j is at most k.
  
 ---
