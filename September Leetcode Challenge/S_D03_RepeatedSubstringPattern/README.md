@@ -1,7 +1,7 @@
 Repeated Substring Pattern
 ==========================
 
-![alt text](https://github.com/ayushi7rawat/LeetCode/blob/master/September%20Leetcode%20Challenge/S_D02_ContainsDuplicateIII/cover.jpg)
+![alt text](https://github.com/ayushi7rawat/LeetCode/blob/master/September%20Leetcode%20Challenge/S_D03_RepeatedSubstringPattern/cover.jpg)
 
 Explanation Walkthrough:
 ==========================
