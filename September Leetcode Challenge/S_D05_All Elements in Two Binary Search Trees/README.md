@@ -1,5 +1,15 @@
 All Elements in Two Binary Search Trees
 ==========================
+
+![alt text](
+https://github.com/ayushi7rawat/LeetCode/blob/master/September%20Leetcode%20Challenge/S_D05_All%20Elements%20in%20Two%20Binary%20Search%20Trees/cover.jpg)
+
+Explanation Walkthrough:
+==========================
+*You can find a complete step by step explanation walkthrough at my september Leetcode challenge* [Youtube Playlist](https://www.youtube.com/playlist?list=PLjaO05BrsbIP4_rYhYjB95q-IpxoIXmlm)
+
+Problem Statement:
+==========================
 Given two binary search trees root1 and root2.
 Return a list containing all the integers from both trees sorted in ascending order.
 
