@@ -1,5 +1,15 @@
 Largest Time for Given Digits
 ==========================
+
+![alt text](https://github.com/ayushi7rawat/LeetCode/blob/master/September%20Leetcode%20Challenge/S_D01_LargestTimeforGivenDigits/cover.jpg)
+
+Explanation Walkthrough:
+==========================
+You can find a complete step by step explanation walkthrough at my september Leetcode challenge [Youtube Playlist](https://www.youtube.com/playlist?list=PLjaO05BrsbIP4_rYhYjB95q-IpxoIXmlm)
+
+Problem Statement:
+==========================
+
 Given an array of 4 digits, return the largest 24 hour time that can be made.
 
 The smallest 24 hour time is 00:00, and the largest is 23:59.  Starting from 00:00, a time is larger if more time has elapsed since midnight.
