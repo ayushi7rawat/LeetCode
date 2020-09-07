@@ -1,7 +1,7 @@
 Word Pattern
 ==========================
 
-![alt text](https://github.com/ayushi7rawat/LeetCode/blob/master/September%20Leetcode%20Challenge/S_D06_Image%20Overlap/cover.jpg)
+![alt text](https://github.com/ayushi7rawat/LeetCode/blob/master/September%20Leetcode%20Challenge/S_D07_Word%20Pattern/cover.jpg)
 
 Explanation Walkthrough:
 ==========================
