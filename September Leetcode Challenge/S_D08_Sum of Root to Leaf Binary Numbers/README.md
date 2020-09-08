@@ -17,6 +17,8 @@ Return the sum of these numbers.
 
 Example 1
 ==========================
+![alt text](https://github.com/ayushi7rawat/LeetCode/blob/master/September%20Leetcode%20Challenge/S_D08_Sum%20of%20Root%20to%20Leaf%20Binary%20Numbers/example_1.png)
+
 ```
 Input: [1,0,1,0,1,0,1]
 Output: 22
