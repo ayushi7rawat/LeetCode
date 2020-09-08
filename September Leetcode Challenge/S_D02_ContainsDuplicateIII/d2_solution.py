@@ -1,4 +1,9 @@
 class Solution:
+'''
+Problem Name: ContainsDuplicateIII
+Author: Ayushi Rawat
+Date: 02-09-2020
+'''
     def containsNearbyAlmostDuplicate(self, nums: List[int], k: int, t: int) -> bool:
         if t == 0 and len(nums) == len(set(nums)):
             return False

@@ -1,4 +1,9 @@
 class Solution:
+'''
+Problem Name: RepeatedSubstringPattern
+Author: Ayushi Rawat
+Date: 03-09-2020
+'''
     def repeatedSubstringPattern(self, s: str) -> bool:
         sub = ''
         l1 = len(s)

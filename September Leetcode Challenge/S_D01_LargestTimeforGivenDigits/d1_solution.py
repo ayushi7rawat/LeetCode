@@ -1,7 +1,9 @@
 class Solution:
-    '''
-    September Leetcode Challenge Day 1
-    '''
+'''
+Problem Name: LargestTimeforGivenDigits
+Author: Ayushi Rawat
+Date: 01-09-2020
+'''
     def largestTimeFromDigits(self, mylist1: List[int]) -> str:
         if len(mylist1) == 0:
             return ""

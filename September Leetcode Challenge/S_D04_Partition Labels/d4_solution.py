@@ -1,4 +1,9 @@
 class Solution:
+'''
+Problem Name: Partition Labels
+Author: Ayushi Rawat
+Date: 04-09-2020
+'''
     def partitionLabels(self, S: str) -> List[int]:
         res = []
         last_indices = [0] * 26
