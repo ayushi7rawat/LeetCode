@@ -1,7 +1,7 @@
 Compare Version Numbers
 ==========================
 
-![alt text](https://github.com/ayushi7rawat/LeetCode/blob/master/September%20Leetcode%20Challenge/S_D09_Compare%20Version%20numbers/cover.jpg)
+![alt text](https://github.com/ayushi7rawat/LeetCode/blob/master/September%20Leetcode%20Challenge/D09%20Compare%20Version%20numbers/cover.jpg)
 
 Explanation Walkthrough:
 ==========================
