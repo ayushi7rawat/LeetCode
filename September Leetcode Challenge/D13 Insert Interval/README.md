@@ -1,7 +1,7 @@
 Insert Interval
 ==========================
 
-![alt text](https://github.com/ayushi7rawat/LeetCode/blob/master/September%20Leetcode%20Challenge/D12%20Combination%20Sum%20III/cover.jpg)
+![alt text](https://github.com/ayushi7rawat/LeetCode/blob/master/September%20Leetcode%20Challenge/D13%20Insert%20Interval/cover.jpg)
 
 Explanation Walkthrough:
 ==========================
