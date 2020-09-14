@@ -1,7 +1,7 @@
 House Robber
 ==========================
 
-![alt text](https://github.com/ayushi7rawat/LeetCode/blob/master/September%20Leetcode%20Challenge/D13%20Insert%20Interval/cover.jpg)
+![alt text](https://github.com/ayushi7rawat/LeetCode/blob/master/September%20Leetcode%20Challenge/D14%20House%20Robbers/cover.jpg)
 
 Explanation Walkthrough:
 ==========================
