@@ -1,7 +1,7 @@
 Length of Last Word
 ==========================
 
-![alt text](https://github.com/ayushi7rawat/LeetCode/blob/master/September%20Leetcode%20Challenge/D14%20House%20Robbers/cover.jpg)
+![alt text](https://github.com/ayushi7rawat/LeetCode/blob/master/September%20Leetcode%20Challenge/D15%20Length%20of%20Last%20Word/cover.jpg)
 
 Explanation Walkthrough:
 ==========================
