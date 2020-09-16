@@ -1,7 +1,7 @@
 Maximum XOR of Two Numbers in an Array
 ==========================
 
-![alt text](https://github.com/ayushi7rawat/LeetCode/blob/master/September%20Leetcode%20Challenge/D15%20Length%20of%20Last%20Word/cover.jpg)
+![alt text](https://github.com/ayushi7rawat/LeetCode/blob/master/September%20Leetcode%20Challenge/D16%20Maximum%20XOR%20of%20Two%20Numbers%20in%20an%20Array/cover.jpg)
 
 Explanation Walkthrough:
 ==========================
@@ -19,6 +19,7 @@ Example 1
 ==========================
 ```
 Input: [3, 10, 5, 25, 2, 8]
+
 Output: 28
 
 Explanation: The maximum result is 5 ^ 25 = 28.
