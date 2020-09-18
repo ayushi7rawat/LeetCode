@@ -1,7 +1,7 @@
 Robot Bounded In Circle
 ==========================
 
-![alt text](https://github.com/ayushi7rawat/LeetCode/blob/master/September%20Leetcode%20Challenge/D16%20Maximum%20XOR%20of%20Two%20Numbers%20in%20an%20Array/cover.jpg)
+![alt text](https://github.com/ayushi7rawat/LeetCode/blob/master/September%20Leetcode%20Challenge/D17%20Robot%20Bounded%20In%20Circle/cover.jpg)
 
 Explanation Walkthrough:
 ==========================

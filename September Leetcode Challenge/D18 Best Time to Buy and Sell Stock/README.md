@@ -1,7 +1,7 @@
 Robot Bounded In Circle
 ==========================
 
-![alt text](https://github.com/ayushi7rawat/LeetCode/blob/master/September%20Leetcode%20Challenge/D16%20Maximum%20XOR%20of%20Two%20Numbers%20in%20an%20Array/cover.jpg)
+![alt text](https://github.com/ayushi7rawat/LeetCode/blob/master/September%20Leetcode%20Challenge/D18%20Best%20Time%20to%20Buy%20and%20Sell%20Stock/cover.jpg)
 
 Explanation Walkthrough:
 ==========================
