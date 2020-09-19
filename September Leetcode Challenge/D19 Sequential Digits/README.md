@@ -1,7 +1,7 @@
 Sequential Digits
 ==========================
 
-![alt text](https://github.com/ayushi7rawat/LeetCode/blob/master/September%20Leetcode%20Challenge/D18%20Best%20Time%20to%20Buy%20and%20Sell%20Stock/cover.jpg)
+![alt text](https://github.com/ayushi7rawat/LeetCode/blob/master/September%20Leetcode%20Challenge/D19%20Sequential%20Digits/cover.jpg)
 
 Explanation Walkthrough:
 ==========================
