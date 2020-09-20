@@ -1,7 +1,7 @@
 Unique Paths III
 ==========================
 
-![alt text](https://github.com/ayushi7rawat/LeetCode/blob/master/September%20Leetcode%20Challenge/D19%20Sequential%20Digits/cover.jpg)
+![alt text](https://github.com/ayushi7rawat/LeetCode/blob/master/September%20Leetcode%20Challenge/D20%20Unique%20Paths%20III/cover.jpg)
 
 Explanation Walkthrough:
 ==========================
