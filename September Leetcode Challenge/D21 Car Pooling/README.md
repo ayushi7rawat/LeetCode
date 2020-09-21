@@ -1,7 +1,7 @@
 Car Pooling
 ==========================
 
-![alt text](https://github.com/ayushi7rawat/LeetCode/blob/master/September%20Leetcode%20Challenge/D20%20Unique%20Paths%20III/cover.jpg)
+![alt text](https://github.com/ayushi7rawat/LeetCode/blob/master/September%20Leetcode%20Challenge/D21%20Car%20Pooling/cover.jpg)
 
 Explanation Walkthrough:
 ==========================
