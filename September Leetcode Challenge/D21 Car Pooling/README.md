@@ -45,11 +45,17 @@ Output: true
 
 Constraints:
 ==========================
+```
 trips.length <= 1000
+
 trips[i].length == 3
+
 1 <= trips[i][0] <= 100
+
 0 <= trips[i][1] < trips[i][2] <= 1000
+
 1 <= capacity <= 100000
+```
 
 Hint:
 ==========================
