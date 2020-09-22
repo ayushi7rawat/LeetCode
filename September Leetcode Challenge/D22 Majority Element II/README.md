@@ -1,7 +1,7 @@
 Majority Element II
 ==========================
 
-![alt text](https://github.com/ayushi7rawat/LeetCode/blob/master/September%20Leetcode%20Challenge/D21%20Car%20Pooling/cover.jpg)
+![alt text](https://github.com/ayushi7rawat/LeetCode/blob/master/September%20Leetcode%20Challenge/D22%20Majority%20Element%20II/cover.jpg)
 
 Explanation Walkthrough:
 ==========================
@@ -25,9 +25,15 @@ Input: [1,1,1,3,3,2,2,2]
 Output: [1,2]
 ```
 
-Example 3:
+Note:
 ==========================
 ```
 The algorithm should run in linear time and in O(1) space.
 ```
 
+Hint:
+==========================
+```
+How many majority elements could it possibly have?
+Do you have a better hint? Suggest it!
+```
