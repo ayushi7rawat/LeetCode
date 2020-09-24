@@ -1,7 +1,7 @@
 Gas Station
 ==========================
 
-![alt text](https://github.com/ayushi7rawat/LeetCode/blob/master/September%20Leetcode%20Challenge/D23%20%20Gas%20Station/cover.jpg)
+![alt text](https://github.com/ayushi7rawat/LeetCode/blob/master/September%20Leetcode%20Challenge/D24%20%20Find%20the%20Difference/cover.jpg)
 
 Explanation Walkthrough:
 ==========================
