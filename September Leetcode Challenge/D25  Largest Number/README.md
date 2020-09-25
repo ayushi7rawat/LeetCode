@@ -1,7 +1,7 @@
 Largest Number
 ==========================
 
-![alt text](https://github.com/ayushi7rawat/LeetCode/blob/master/September%20Leetcode%20Challenge/D24%20%20Find%20the%20Difference/cover.jpg)
+![alt text](https://github.com/ayushi7rawat/LeetCode/blob/master/September%20Leetcode%20Challenge/D25%20%20Largest%20Number/cover.jpg)
 
 Explanation Walkthrough:
 ==========================
