@@ -1,7 +1,7 @@
 Teemo Attacking
 ==========================
 
-![alt text](https://github.com/ayushi7rawat/LeetCode/blob/master/September%20Leetcode%20Challenge/D25%20%20Largest%20Number/cover.jpg)
+![alt text](https://github.com/ayushi7rawat/LeetCode/blob/master/September%20Leetcode%20Challenge/D26%20Teemo%20Attacking/cover.jpg)
 
 Explanation Walkthrough:
 ==========================
