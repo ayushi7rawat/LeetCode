@@ -4,7 +4,7 @@ Problem Name: Largest Number
 Author: Ayushi Rawat
 Date: 25-09-2020
 '''
-    ddef largestNumber(self, nums: List[int]) -> str:
+    def largestNumber(self, nums: List[int]) -> str:
         if len(nums) == 0:
             return ' '
         
