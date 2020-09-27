@@ -1,7 +1,7 @@
 Evaluate Division
 ==========================
 
-![alt text](https://github.com/ayushi7rawat/LeetCode/blob/master/September%20Leetcode%20Challenge/D26%20Teemo%20Attacking/cover.jpg)
+![alt text](https://github.com/ayushi7rawat/LeetCode/blob/master/September%20Leetcode%20Challenge/D27%20Evaluate%20Division/cover.jpg)
 
 Explanation Walkthrough:
 ==========================
