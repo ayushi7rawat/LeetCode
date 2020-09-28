@@ -1,7 +1,7 @@
 Subarray Product Less Than K
 ==========================
 
-![alt text](https://github.com/ayushi7rawat/LeetCode/blob/master/September%20Leetcode%20Challenge/D27%20Evaluate%20Division%20-%20Copy/cover.jpg)
+![alt text](https://github.com/ayushi7rawat/LeetCode/blob/master/September%20Leetcode%20Challenge/D28%20Subarray%20Product%20Less%20Than%20K/cover.jpg)
 
 Explanation Walkthrough:
 ==========================
