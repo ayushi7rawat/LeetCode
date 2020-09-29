@@ -1,7 +1,7 @@
 Word Break
 ==========================
 
-![alt text](https://github.com/ayushi7rawat/LeetCode/blob/master/September%20Leetcode%20Challenge/D28%20Subarray%20Product%20Less%20Than%20K/cover.jpg)
+![alt text](https://github.com/ayushi7rawat/LeetCode/blob/master/September%20Leetcode%20Challenge/D29%20Word%20Break/cover.jpg)
 
 Explanation Walkthrough:
 ==========================
