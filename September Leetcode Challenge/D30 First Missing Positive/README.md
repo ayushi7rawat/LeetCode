@@ -1,7 +1,7 @@
 First Missing Positive
 ==========================
 
-![alt text](https://github.com/ayushi7rawat/LeetCode/blob/master/September%20Leetcode%20Challenge/D29%20Word%20Break/cover.jpg)
+![alt text](https://github.com/ayushi7rawat/LeetCode/blob/master/September%20Leetcode%20Challenge/D30%20First%20Missing%20Positive/cover.jpg)
 
 Explanation Walkthrough:
 ==========================
