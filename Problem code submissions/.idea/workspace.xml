@@ -94,15 +94,17 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="223" y="10" width="1097" height="824" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1612935773539">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="223" y="10" width="1097" height="824" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834@0.0.1536.834" timestamp="1612935773539" />
-    <state x="224" y="143" key="FileChooserDialogImpl" timestamp="1612935762068">
-      <screen x="0" y="0" width="1536" height="834" />
+    <state x="224" y="143" key="FileChooserDialogImpl" timestamp="1614828835638">
+      <screen x="0" y="0" width="1536" height="832" />
     </state>
+    <state x="224" y="143" key="FileChooserDialogImpl/0.0.1536.832@0.0.1536.832" timestamp="1614828835638" />
     <state x="224" y="143" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1612935762068" />
     <state width="1470" height="199" key="GridCell.Tab.0.bottom" timestamp="1612974850169">
       <screen x="0" y="0" width="1536" height="834" />
