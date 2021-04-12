@@ -12,9 +12,8 @@ class Solution:
         else:
             return -1
 			
-			
-			
-			
+				
+#Second solution
 class Solution:
     def arraySign(self, nums: List[int]) -> int:
         if 0 in nums:
