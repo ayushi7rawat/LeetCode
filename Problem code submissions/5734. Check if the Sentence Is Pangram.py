@@ -27,5 +27,5 @@ sentence consists of lowercase English letters.
 
 class Solution:
     def checkIfPangram(self, sentence: str) -> bool:
-        return len(set(re.findall(r'[a-z]', sentence.lower()))) == 26
+        return len(set(sentence)) == 26
             
