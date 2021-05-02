@@ -30,3 +30,12 @@ class Solution:
                 res.append(abs(i - start))
         return min(res)
             
+
+#second solution:
+class Solution:
+    def getMinDistance(self, nums: List[int], target: int, start: int) -> int:
+        res = sys.maxsize
+        for i in range(len(nums)):
+          if nums[i] == target:
+            res = min(res,(abs(i - start)))
+        return res
