@@ -20,7 +20,7 @@ class Solution:
             curr_max = max(nums)    
         return counter
         
-    #second solution
+    #second improved solution
     def minMoves(self, nums: List[int]) -> int:
         _sum = 0
         _min = min(nums)
